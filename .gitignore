@@ -1,0 +1,7 @@
+Thumbs.db
+.DS_Store
+
+.fake/
+.packages/
+.nuget/
+.working/

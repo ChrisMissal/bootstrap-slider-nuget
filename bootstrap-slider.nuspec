@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>@project@</id>
+        <version>@build.number@</version>
+        <title>@project@</title>
+        <authors>@authors@</authors>
+        <owners>@authors@</owners>
+        <licenseUrl>https://github.com/seiyria/bootstrap-slider/blob/master/LICENSE.md</licenseUrl>
+        <projectUrl>https://github.com/seiyria/bootstrap-slider</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>@description@</description>
+        <summary>@summary@</summary>
+        <tags>bootstrap bootstrap-slider slider</tags>
+        @dependencies@
+    </metadata>
+    @files@
+</package>
